@@ -1,5 +1,5 @@
 # cv2.0
--eu me chamo  hais
+-eu me chamo thais
 
 -eu estou estudando no Colégio Estadual Tancredo de Almeida Neves
 
